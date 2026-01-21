@@ -12,3 +12,9 @@ This project focuses on Gold (XAUUSD) and Silver (XAGUSD) and provides:
 
 The structure is designed to be extended easily to other commodities such as oil, copper, platinum and energy products.
 
+Supported commodities:
+- Gold (XAUUSD)
+- Silver (XAGUSD)
+- Copper (HG=F)
+- Platinum (PL=F)
+- Palladium (PA=F)
