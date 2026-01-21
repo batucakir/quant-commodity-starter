@@ -1,2 +1,14 @@
-# quant-commodity-starter
-A clean and modular starter project for building trading signals, risk indicators and backtests for commodities such as Gold or Silver etc. Includes SMA/RSI/ATR indicators, trend detection, risk scoring, and a simple backtesting engine.
+# Quant Commodity Starter
+
+A clean and modular starter kit for commodity trading analytics.  
+This project focuses on Gold (XAUUSD) and Silver (XAGUSD) and provides:
+
+- Long-term price data collection  
+- Trend indicators: SMA35 / SMA100  
+- Momentum indicators: RSI  
+- Volatility & risk scoring: ATR percentage  
+- Buy/Sell signal engine  
+- Basic backtesting framework  
+
+The structure is designed to be extended easily to other commodities such as oil, copper, platinum and energy products.
+
